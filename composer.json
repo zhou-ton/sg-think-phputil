@@ -1,0 +1,16 @@
+{
+  "name": "zhou-ton/sg-think-phputil",
+  "description": "sg-think web应用框架的php助手类库",
+    "authors": [
+        {
+            "name": "zhouTon",
+            "email": "958798038@qq.com"
+        }
+    ],
+  "autoload": {
+    "psr-0": {
+      "": "src/"
+    }
+  },
+  "license": "Apache-2.0"
+}
